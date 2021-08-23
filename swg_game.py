@@ -6,7 +6,7 @@ comp = 0
 user = 0
 while n <= 10:
     a = random.choice(g)
-    print("Enter your Choice:")
+    print("Enter your Choice s for snake, g for gun and w for water:")
     b = input()
     time.sleep(1)
     if a == "Snake":
