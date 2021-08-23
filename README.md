@@ -1,4 +1,4 @@
-### SWG_GAME
+## SWG_GAME
 Snake Water and Gun
 This is one of the most favorite games played by chidren with idea and key concept of that thing this game is desgined in a non GUI-form.
 # RULES
